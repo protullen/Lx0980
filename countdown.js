@@ -56,4 +56,4 @@ function initializeCountdown(targetDateTime) {
 }
  
 // Initialize the countdown with the target date and time
-initializeCountdown('September 27, 2023 16:46:00');
+initializeCountdown('May 29, 2024 18:08:00');
